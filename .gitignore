@@ -1,2 +1,9 @@
-*.o
 sample
+
+# For GCC project
+*.o
+
+# For Doxygen
+Doxyfile
+html/
+latex/
