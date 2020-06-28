@@ -2,7 +2,7 @@
  * @file   sample.c
  * @brief  GCC Test sample program
  * @author T.Yokobayashi de JR4QPV
- * @date   2020/04/16
+ * @date   2020/06/28
  */
 
 #include <stdlib.h>
@@ -11,8 +11,8 @@
 /**
  *****************************************************************************
  * @brief  Sample main program
- * @param[in] argc 引数の個数
- * @param[in] argv 引数文字列
+ * @param  argc 引数の個数
+ * @param  argv 引数文字列
  * @return 終了コード
  * @details
  *****************************************************************************

@@ -1,5 +1,5 @@
 sample	:	sample.c
-	gcc -o $@ $<
+	gcc -o $@ $^
 
 clean	:
 	rm -f sample
